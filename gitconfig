@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ikkaba92@hotmail.fr
+	name = ibrahima kaba
